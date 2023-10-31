@@ -6,6 +6,10 @@ package Generalstore;
  */
 public class App1 
 {
+	public void print()
+	{
+		System.out.println( "print demo" );
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
