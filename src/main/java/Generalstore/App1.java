@@ -4,7 +4,7 @@ package Generalstore;
  * Hello world!
  *
  */
-public class App 
+public class App1 
 {
     public static void main( String[] args )
     {
@@ -15,6 +15,7 @@ public class App
         System.out.println( "Hello World! 4" );
         System.out.println( "Hi" );
         System.out.println( "Hi 2" );
+        System.out.println( "Hi 3" );
         
         
     }
