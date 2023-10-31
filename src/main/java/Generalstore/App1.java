@@ -10,6 +10,15 @@ public class App1
 	{
 		System.out.println( "print demo" );
 	}
+	public void print1()
+	{
+		System.out.println( "print demo 1" );
+	}
+	
+	public void print2()
+	{
+		System.out.println( "print demo 2" );
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
